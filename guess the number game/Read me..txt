@@ -1,0 +1,27 @@
+Number Guessing Game
+
+Overview
+The Number Guessing Game is a simple yet engaging Python application designed to test your number-guessing skills. Players guess a randomly generated number within a specified range and are given a limited number of attempts based on the selected difficulty level. The game offers several difficulty levels, including Easy, Normal, and Hard, as well as a Custom mode where players can define their own range and number of attempts.
+
+Features
+Multiple Difficulty Levels: Choose from Easy (1-20), Normal (1-100), and Hard (1-500) to suit your skill level or desire for challenge.
+
+Custom Mode: Set your own guessing range and number of attempts for a personalized experience.
+
+Scoring System: Earn points based on the number of guesses taken to find the correct number, encouraging efficiency and accuracy.
+
+Hint System: Receive hints after each incorrect guess, guiding you toward the correct answer with suggestions like "Higher!" or "Lower!".
+
+Replayability: Play as many times as you like and try to beat your previous score!
+
+How to Play
+Start the Game: Run the script to begin.
+
+Select a Difficulty Level: Choose from Easy, Normal, Hard, or Custom difficulty levels.
+
+Guess the Number: Enter your guesses based on the range displayed. You will receive hints if your guess is incorrect.
+
+Watch Your Score: Your score will be displayed at the end of each game, and you can choose to play again or exit.
+
+License
+This project is licensed under the MIT License.
