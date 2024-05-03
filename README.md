@@ -8,5 +8,5 @@ Below is a list of projects contained in this repository. Each has its own dedic
 
 Contact
 For any inquiries or collaborations, feel free to reach me at:
-Email: fsmiranda09@gmail.com
+Email: miranda98salas21@gmail.com
 LinkedIn: www.linkedin.com/in/freddy-salas-miranda-b00187255
